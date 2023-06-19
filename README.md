@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 -  I am *Bhavani*.
-- :school: A BTech Final year student from AP-IIIT, Srikakulam.
 - :books: Interested in *Machine Learning | Deep Learning | Artificial Intelligence*.
 - :mag: Actively looking for an internship in AI/ML domain.
 - 📫 One can reach me @ bhavani00387@gmail.com
