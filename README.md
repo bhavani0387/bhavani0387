@@ -1,9 +1,9 @@
 ### Hi there 👋
 
--  I am *Bhavani*.
+-  I am *Bhavani*,  .
 - :books: Interested in *Machine Learning | Deep Learning | Artificial Intelligence*.
-- :mag: Actively looking for an internship in AI/ML domain.
-- 📫 One can reach me @ bhavani00387@gmail.com
+- :mag: Actively looking for full time opportuinity in AI/ML domain.
+- 📫 Can reach out to me @ bhavani00387@gmail.com
 
 
 <!--
